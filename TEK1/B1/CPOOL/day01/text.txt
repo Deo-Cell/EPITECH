@@ -1,0 +1,3 @@
+At this moment you have to go and learn yourself about of using linux console
+How to create repertory, files, access link, right of files, symbolic link, and another.
+So good luck.
